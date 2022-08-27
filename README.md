@@ -1,7 +1,6 @@
 # My first Microverse Welcome Project
 
-> Welcome to my first microverse Project.
-
+Welcome to my first microverse Project.
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
